@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nrstnv
 - 👀 I’m interested in C#, .NET, ASP.NET MVC, JavaScript, XML/XSLT, PL-SQL and MSSQL
 - 🌱 I’m currently learning C# & .NET
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on software development for Manufcaturing Execution Systems (MES)
 - 📫 How to reach me ...
 
 <!---
