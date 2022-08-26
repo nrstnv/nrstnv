@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nrstnv
-- 👀 I’m interested in C#, .NET, ASP.NET, JavaScript, XML/XSLT, PL-SQL and MSSQL
-- 🌱 I’m currently learning C# & .NET
+- 👀 I’m interested in .NET, ASP.NET, Windows Communication Foundation (WCF), Back End Development and Infrastructure, SDLC in general
+- 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on software development for Manufacturing Execution Systems (MES)
 - 📫 How to reach me ...
 
